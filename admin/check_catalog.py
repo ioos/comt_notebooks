@@ -1,9 +1,13 @@
 # -*- coding: utf-8 -*-
 # <nbformat>3.0</nbformat>
 
+# <headingcell level=1>
+
+# COMT Standards Compliance Test
+
 # <markdowncell>
 
-# ##Test out UGRID-0.9 compliant unstructured grid model datasets with PYUGRID
+# Crawl a THREDDS catalog, and try loading all OPeNDAP urls with pyugrid and Iris
 
 # <codecell>
 
